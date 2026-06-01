@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysalculate",
+        "uuid": 20151736,
+        "checksum": "s781gq"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
